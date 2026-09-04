@@ -1,3 +1,5 @@
 1°) Hola, crea un archivo llamado  devops_metrics.csv , en el incluye datos creados bajo los siguentes parametros: aprox 5000 filas en las que cada una deben incluir un evento de integracion/despleguie, estas extraelas de la imagen adjunta, incluye casos atipicos en los datos, tambien incluye datos corruptos, incompletos o errados que nesesiten ser filtrados.
 
-2°) 
+2°) Crea un Script en R que se encargue de filtrar los datos incoerentes, incompletos y corruptos. Solo devuelveme el scrip el cual debe importar el csv que adjunte con el propocito que veas el formato de los datos
+
+3°) Crea un scrip que se pueda unir al anterior, debe Describir cada variable con las tres familias: tendencia central, dispersión y forma
