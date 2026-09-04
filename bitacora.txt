@@ -1,1 +1,2 @@
-1°)
+1°) Hola, crea un archivo llamado  devops_metrics.csv , en el incluye datos creados bajo los siguentes parametros: aprox 5000 filas en las que cada una deben incluir un evento de integracion/despleguie, estas extraelas de la imagen adjunta, incluye casos atipicos en los datos 
+2°) 
